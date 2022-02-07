@@ -1,8 +1,4 @@
-# <p><img align="left" height="200em" src="https://c.tenor.com/Ftfa-ehSIs4AAAAM/miyako-hoshino-wataten.gif"></p>
-
-**Hallo! I'm definitely, totally, not David** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-**About me:**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **About me:**
 
     - 🏢 I’m currently studying physics at UNMSM
     - 📖 I’m currently reading "The Character of Physical Law" by Richard Feynman
