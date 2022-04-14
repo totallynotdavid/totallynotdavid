@@ -1,7 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **About me:**
 
     - 🏢 I’m currently studying physics at UNMSM
-    - 📖 I’m currently reading "The Character of Physical Law" by Richard Feynman
     - 🧑‍💻 I’m currently trying to learn to use git
 
 <!---
