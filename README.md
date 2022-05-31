@@ -1,7 +1,7 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **About me:**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **Sobre mí**
 
-    - 🏢 I’m currently studying physics at UNMSM
-    - 🧑‍💻 I’m currently trying to learn to use git
+    - 🏢 Actualmente estudio física en la UNMSM.
+    - 🧑‍💻 Actualmente estoy tratando de aprender a usar git.
 
 <!---
 ### 📈 **Statistics:**
