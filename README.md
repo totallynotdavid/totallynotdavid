@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> **Sobre mí**
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px"> **Sobre mí**
 
     - 🏢 Actualmente estudio física en la UNMSM.
     - 🧑‍💻 Actualmente estoy tratando de aprender a usar git.
